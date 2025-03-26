@@ -68,3 +68,26 @@ To support these features, your database should store:
 - Comparative analyses (between laps/sessions)
 
 This approach will give you a solid foundation for providing useful insights to track day enthusiasts while being achievable with the data sources you've mentioned.
+
+# Example formats
+
+```txt
+turn1
+	 max speed prior: 160kph
+	braking point: 150m
+	entry speed: 65 kph
+	 min corner speed: 60kph
+	 exit speed: 80kph
+```
+
+
+```md
+# Lap 3
+100m - Local max speed 150 kph (detected whenever a local maximum speed to seen)
+105m - Braking point, speed 150kph (detected whenever a high g decelleration is detected)
+130m - Left turn-in, speed: 70kph (detected whenever a high g left turn is detected)
+150m - Local min speed: 60 kph (detected whenever a local minimum speed to seen)
+170m - Left corner exit, speed 100kph (detected whenever lateral g fall to a neglible theshhold)
+175 - Local max acceleration (detected whenever a local max acceleration is detected)
+...
+```

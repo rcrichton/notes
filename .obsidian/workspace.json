@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/AI Lap Analysis/Racing Telemetry Feature Analysis.md",
+                "file": "Jembi/HIV-TB Gates/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Racing Telemetry Feature Analysis"
+              "title": "Overview"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "0bbd64d6cf0f98b1",
   "lastOpenFiles": [
-    "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/Racing Telemetry Feature Analysis.md",
+    "Jembi/HIV-TB Gates/Overview.md",
+    "Jembi/HIV-TB Gates",
+    "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/ERD.md",
     "Personal/AI Lap Analysis/Notes.md",
     "Jembi/GCC.md",
