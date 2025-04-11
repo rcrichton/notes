@@ -1,6 +1,7 @@
-Vision statement: An AI race engineer that helps track day enthusiasts go faster. The AI race engineer is able to look at lap data captured by lap timing apps (like Race Chrono or Track Addict) or exported from simulators (like Assetto Corsa Competizione) and provide insights on what a racer can do to improve their lap times. A text chat interface will allows the user to ask questions and get addition feedback.
+# Vision statement
+An AI race engineer that helps track day enthusiasts go faster. The AI race engineer is able to look at lap data captured by lap timing apps (like Race Chrono or Track Addict) or exported from simulators (like Assetto Corsa Competizione) and provide insights on what a racer can do to improve their lap times. A text chat interface will allows the user to ask questions and get addition feedback.
 
-MVP Features:
+# MVP Features
 - Upload csv with lap data
 	- TrackAddict and Race Chrono support
 - Display dashboard of overlaid lap data
@@ -13,13 +14,14 @@ MVP Features:
 - Select laps to be currently viewed/discussed from a session
 
 Future features
-- Car setup chat and suggestions
+- See [[Features+Ideas]]
 
-Tech stack
+# Tech stack
 - Web app - Next.js
-- Server data processing - Next.js server components
+- Server data processing - Next.js server components / routes
 - DB - Supabase free
 - Hosting - Vercel free
+- AI - Gemini free tier
 
 ## Data processing
 ```mermaid

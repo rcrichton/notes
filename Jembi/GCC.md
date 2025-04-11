@@ -10,6 +10,16 @@
 * [Outputs required](https://docs.google.com/document/d/1JAf9401ZekMg_i5L-Sao66rfIjlswACR/edit)
 * [NotebookLM](https://notebooklm.google.com/notebook/10c9511b-a4c6-4de3-9f03-2d1ed83b89bf)
 
+# New direction discussion (08/04/2025)
+- Dabat, Amhara region (political issues for Addis)
+- Malaria/Climate
+- Focus on collecting high quality data
+	- Individual data therefore needed
+	- Plus platform to collect it
+- Focus on integrating with other partner already doing prediction
+	- Ephidemia? - doing predictive analysis - https://ecograph.net/epidemia/
+	- CHAP - involved in Ethiopia
+
 # Critical milestones
 From email attachment
 

@@ -1,0 +1,9 @@
+- Share button, share via link
+- Group chat with friends
+- Emote on lap and position on track
+- Comment of lap and position on track
+- @AI command
+- Private and public chatroom
+- Lap leader board
+- Set reference lap, in session or external
+- Car setup chat and suggestions
