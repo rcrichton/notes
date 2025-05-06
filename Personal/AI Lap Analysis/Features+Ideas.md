@@ -1,9 +1,14 @@
-- Share button, share via link
-- Group chat with friends
-- Emote on lap and position on track
-- Comment of lap and position on track
-- @AI command
-- Private and public chatroom
+- Share session button, share via link
+- Set reference lap, in session, optimal or external (from leader board or friend shared lap)
+- 
+- Group chat with friends in sidebar of shared session
+- Add reaction/comment tagging lap and position on track
+- @AI command for invoking AI in group chat
+- Mode select: Private AI chat or group/friend chatroom
+- 
+- Add achievements and/or user points
 - Lap leader board
-- Set reference lap, in session or external
-- Car setup chat and suggestions
+	- Good idea, but is only really useful when more data is uploaded
+- Friend challenges
+	- This might require capturing data live, how would it work for retrospective data
+- Mode for car setup chat

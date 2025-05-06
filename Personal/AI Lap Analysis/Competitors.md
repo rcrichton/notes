@@ -12,3 +12,5 @@ traophi.ai (sim only, but moving to real world)
 - iRacing, ACC, F1 23/24
 
 https://racecue.com/
+
+https://serious-racing.com/
