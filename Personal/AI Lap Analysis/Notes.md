@@ -1,5 +1,7 @@
 # Vision statement
-An AI race engineer that helps track day enthusiasts go faster. The AI race engineer is able to look at lap data captured by lap timing apps (like Race Chrono or Track Addict) or exported from simulators (like Assetto Corsa Competizione) and provide insights on what a racer can do to improve their lap times. A text chat interface will allows the user to ask questions and get addition feedback.
+Original: An AI race engineer that helps track day enthusiasts go faster. The AI race engineer is able to look at lap data captured by lap timing apps (like Race Chrono or Track Addict) or exported from simulators (like Assetto Corsa Competizione) and provide insights on what a racer can do to improve their lap times. A text chat interface will allows the user to ask questions and get addition feedback.
+
+After feedback: Visualize, share and discuss lap data. Upload lap data from a variety of formats to allow track day enthusiasts to go faster. They can share data with friends or experts which allows them to view and comment on your laps. Coaches can use this platform to review session with their students.  An AI race engineer is able to extract valuable insights for the user and the user can interact with them conversationally to learn more. Provide an open platform for analyzing lap data. 
 
 # MVP Features
 - Upload csv with lap data

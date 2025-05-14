@@ -6,32 +6,50 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Add support for phase 1 data import formats
-- [ ] Session history needs to be responsive
+- [ ] Set reference lap (compare with shared and self)
+- [ ] Chat push notifications
 - [ ] Pricing - checkout flow doesn't seem to work on first signup
-- [ ] Global touch up for launch
-- [ ] Landing page
 - [ ] When session is uplaoded, data on screen doesn't react/relaod
-- [ ] Session chat
-- [ ] Track map should follow points
 - [ ] Loading latest session might leak session IDs, only list owner sessions
-- [ ] Idea: sync up youtube video
+- [ ] Feature: sync up youtube video
+- [ ] ">" 50 users won't load chat participants correctly
 
 
 ## Up Next
 
-- [ ] Set reference lap
-- [ ] Get good LLM answers, data pre-processing
+- [ ] Landing page
+- [ ] Reddit post with screenshots
+- [ ] Optimise storage of telemetry points
+	
+	See [[Storage optimization plan]]
+- [ ] Implement plan limits
+	
+	[] Upload limit
+	[] AI rate limit
+- [ ] Add support for phase 1 data import formats
+	
+	[] Track addict
+	[] RaceChrono
+- [ ] Global touch up for launch
+- [ ] Product launch - reddit, product hunt?, HN?
 
 
 ## In Progress
 
-- [ ] Session sharing
+- [ ] Session chat
+	
+	[x] basic chat
+	[] time tagging
+	[] Invoke AI in group chat
 
 
 ## Done
 
 **Complete**
+- [x] Session sharing
+- [x] Session history needs to be responsive
+- [x] Get good LLM answers, data pre-processing
+- [x] Track map should follow points
 - [x] Fix lap number to graph map mis-match - off by one
 - [x] Fix lap calcualtion
 - [x] Add/fix interpolation of data when uploaded

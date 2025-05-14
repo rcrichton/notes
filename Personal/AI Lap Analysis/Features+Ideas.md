@@ -1,11 +1,10 @@
 - Share session button, share via link
-- Set reference lap, in session, optimal or external (from leader board or friend shared lap)
-- 
 - Group chat with friends in sidebar of shared session
 - Add reaction/comment tagging lap and position on track
 - @AI command for invoking AI in group chat
 - Mode select: Private AI chat or group/friend chatroom
 - 
+- Set reference lap, in session, optimal or external (from leader board or friend shared lap)
 - Add achievements and/or user points
 - Lap leader board
 	- Good idea, but is only really useful when more data is uploaded

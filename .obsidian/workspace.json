@@ -41,18 +41,6 @@
               "icon": "lucide-trello",
               "title": "Kanban"
             }
-          },
-          {
-            "id": "2d4d8ef029f4baf0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
         "currentTab": 1
@@ -205,12 +193,13 @@
   },
   "active": "4e21d6788edc61f4",
   "lastOpenFiles": [
-    "Personal/AI Lap Analysis/Sessions sharing notes.md",
+    "Personal/AI Lap Analysis/Storage optimization plan.md",
     "Personal/AI Lap Analysis/Kanban.md",
-    "Jembi/GCC.md",
     "Personal/AI Lap Analysis/Features+Ideas.md",
-    "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/Notes.md",
+    "Personal/AI Lap Analysis/Sessions sharing notes.md",
+    "Jembi/GCC.md",
+    "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/Social/First Reddit post.md",
     "Personal/AI Lap Analysis/Social",
     "Jembi/Eth CHR+NDR/Architecture.md",
