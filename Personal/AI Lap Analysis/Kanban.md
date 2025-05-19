@@ -24,12 +24,13 @@ kanban-plugin: board
 	See [[Storage optimization plan]]
 - [ ] Implement plan limits
 	
-	[] Upload limit
-	[] AI rate limit
+	- [ ] Upload limit
+	- [ ] AI rate limit
+- [ ] Reddit post with demo shared session
 - [ ] Add support for phase 1 data import formats
 	
-	[] Track addict
-	[] RaceChrono
+	- [ ] Track addict
+	- [ ] RaceChrono
 - [ ] Global touch up for launch
 - [ ] Product launch - reddit, product hunt?, HN?
 
@@ -38,9 +39,9 @@ kanban-plugin: board
 
 - [ ] Session chat
 	
-	[x] basic chat
-	[] time tagging
-	[] Invoke AI in group chat
+	* [x] basic chat
+	- [x] time tagging
+	- [x] Invoke AI in group chat
 
 
 ## Done
