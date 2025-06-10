@@ -17,12 +17,20 @@ kanban-plugin: board
 - [ ] Sending lap context for AI from client is not efficient
 - [ ] Mini sectors viz
 - [ ] PRO avatar border
-- [ ] Chat message loading - again!
+- [ ] Chat message loading - again! - remove initial functionality, rather do properly?
+- [ ] See that a session is a shared session - title?
+- [ ] Email coming from perfect apex not supabase?
+- [ ] App bar slow to collapse
+- [ ] Time codes didn't correlate in AI chat - see https://discord.com/channels/712415168348553349/714382956957007922/1380106633916583966
+- [ ] Profile pic rerenders when toggling between chats and when chat renders e.g. streaming
+- [ ] Login from history page lost shared session
+- [ ] Scrub from charts?
+- [ ] Draw racing lines
+- [ ] Likes for session or laps
 
 
 ## Up Next
 
-- [ ] Login button redirects?
 - [ ] Reddit post with demo shared session
 - [ ] Optimise storage of telemetry points
 	
@@ -42,12 +50,16 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] When session is added to a user through sharing, the chat doesn't load with the new priveledges
 
 
 ## Done
 
 **Complete**
+- [x] Try google maps for map
+- [x] Enhance community vibes for landing page
+- [x] Login button redirects?
+- [x] Go to app button for landing page
+- [x] When session is added to a user through sharing, the chat doesn't load with the new priveledges
 - [x] Remove email blocking
 - [x] Check login flow
 - [x] Set Gemini billing and limit
