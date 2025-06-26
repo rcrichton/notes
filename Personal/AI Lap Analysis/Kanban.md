@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Session history stats
 - [ ] Chat push notifications
 - [ ] Pricing - checkout flow doesn't seem to work on first signup
 - [ ] When session is uplaoded, data on screen doesn't react/relaod
@@ -36,9 +37,9 @@ kanban-plugin: board
 - [ ] Check data displays and interpolation - implement smoothing
 - [ ] Scrub from charts? Floating playback bar?
 - [ ] Change units
-- [ ] Mobile toolbar
-- [ ] Session history stats
 - [ ] Auto AI Insights - panel and chat
+- [ ] Change all user references to use username
+- [ ] Toolbar to add session to saved sessions
 - [ ] Global touch up for launch
 - [ ] Product launch - reddit, product hunt?, HN?
 
@@ -55,6 +56,7 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Mobile toolbar
 - [x] User profile schema
 - [x] Optimise storage of telemetry points
 	
