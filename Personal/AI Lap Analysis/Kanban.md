@@ -6,14 +6,12 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Set reference lap (compare with shared and self)
 - [ ] Chat push notifications
 - [ ] Pricing - checkout flow doesn't seem to work on first signup
 - [ ] When session is uplaoded, data on screen doesn't react/relaod
 - [ ] Loading latest session might leak session IDs, only list owner sessions
 - [ ] Feature: sync up youtube video
 - [ ] ">" 50 users won't load chat participants correctly
-- [ ] Change units
 - [ ] Sending lap context for AI from client is not efficient
 - [ ] Mini sectors viz
 - [ ] PRO avatar border
@@ -24,37 +22,46 @@ kanban-plugin: board
 - [ ] Time codes didn't correlate in AI chat - see https://discord.com/channels/712415168348553349/714382956957007922/1380106633916583966
 - [ ] Profile pic rerenders when toggling between chats and when chat renders e.g. streaming
 - [ ] Login from history page lost shared session
-- [ ] Scrub from charts?
-- [ ] Draw racing lines
 - [ ] Likes for session or laps
+- [ ] Feature: Activity feed, profile, follow list
+- [ ] Feature: achievements
 
 
 ## Up Next
 
-- [ ] Reddit post with demo shared session
-- [ ] Optimise storage of telemetry points
-	
-	See [[Storage optimization plan]]
-- [ ] Implement plan limits
-	
-	- [ ] Upload limit
-	- [ ] AI rate limit
 - [ ] Add support for phase 1 data import formats
 	
 	- [ ] Track addict
 	- [ ] RaceChrono
-- [ ] Check data displays and interpolation
+- [ ] Check data displays and interpolation - implement smoothing
+- [ ] Scrub from charts? Floating playback bar?
+- [ ] Change units
+- [ ] Mobile toolbar
+- [ ] Session history stats
+- [ ] Auto AI Insights - panel and chat
 - [ ] Global touch up for launch
 - [ ] Product launch - reddit, product hunt?, HN?
 
 
 ## In Progress
 
+- [ ] Implement plan limits
+	
+	- [ ] Upload limit
+	- [ ] AI rate limit
+- [ ] Set reference lap (compare with shared and self)
 
 
 ## Done
 
 **Complete**
+- [x] User profile schema
+- [x] Optimise storage of telemetry points
+	
+	See [[Storage optimization plan]]
+- [x] Session discovery
+- [x] Draw racing lines
+- [x] Reddit post with demo shared session
 - [x] Try google maps for map
 - [x] Enhance community vibes for landing page
 - [x] Login button redirects?
