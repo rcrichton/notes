@@ -34,6 +34,7 @@ kanban-plugin: board
 	
 	- [ ] Track addict
 	- [ ] RaceChrono
+	- [ ] VBO
 - [ ] Check data displays and interpolation - implement smoothing
 - [ ] Scrub from charts? Floating playback bar?
 - [ ] Change units
