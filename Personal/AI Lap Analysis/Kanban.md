@@ -37,25 +37,25 @@ kanban-plugin: board
 - [ ] Check data displays and interpolation - implement smoothing
 - [ ] Scrub from charts? Floating playback bar?
 - [ ] Change units
-- [ ] Auto AI Insights - panel and chat
 - [ ] Change all user references to use username
-- [ ] Toolbar to add session to saved sessions
 - [ ] Global touch up for launch
 - [ ] Product launch - reddit, product hunt?, HN?
 
 
 ## In Progress
 
-- [ ] Implement plan limits
-	
-	- [ ] Upload limit
-	- [ ] AI rate limit
+- [ ] Auto AI Insights - panel and chat
 - [ ] Set reference lap (compare with shared and self)
 
 
 ## Done
 
 **Complete**
+- [x] Toolbar to add session to saved sessions
+- [x] Implement plan limits
+	
+	- [x] Upload limit
+	- [x] AI rate limit
 - [x] Mobile toolbar
 - [x] User profile schema
 - [x] Optimise storage of telemetry points
