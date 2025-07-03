@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] Likes for session or laps
 - [ ] Feature: Activity feed, profile, follow list
 - [ ] Feature: achievements
+- [ ] Feature: Automatic posts to socials for achievements and new sessions
 
 
 ## Up Next
@@ -37,21 +38,22 @@ kanban-plugin: board
 	- [ ] VBO
 - [ ] Check data displays and interpolation - implement smoothing
 - [ ] Scrub from charts? Floating playback bar?
-- [ ] Change units
 - [ ] Change all user references to use username
+- [ ] AI chat should sync when a new message arrives
 - [ ] Global touch up for launch
 - [ ] Product launch - reddit, product hunt?, HN?
 
 
 ## In Progress
 
-- [ ] Auto AI Insights - panel and chat
+- [ ] Change units
 - [ ] Set reference lap (compare with shared and self)
 
 
 ## Done
 
 **Complete**
+- [x] Auto AI Insights - panel and chat
 - [x] Toolbar to add session to saved sessions
 - [x] Implement plan limits
 	

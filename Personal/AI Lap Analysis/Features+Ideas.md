@@ -38,3 +38,4 @@
 	- This might require capturing data live, how would it work for retrospective data
 - Mode for car setup chat
 - Activity feed ads?
+- Automatic posts to socials for achievements and new sessions
