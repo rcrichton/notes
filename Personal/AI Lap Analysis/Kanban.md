@@ -31,28 +31,28 @@ kanban-plugin: board
 
 ## Up Next
 
+- [ ] Change all user references to use username
+- [ ] Scrub from charts? Floating playback bar?
+- [ ] AI chat should sync when a new message arrives
+- [ ] Check data displays and interpolation - implement smoothing
 - [ ] Add support for phase 1 data import formats
 	
 	- [ ] Track addict
 	- [ ] RaceChrono
 	- [ ] VBO
-- [ ] Check data displays and interpolation - implement smoothing
-- [ ] Scrub from charts? Floating playback bar?
-- [ ] Change all user references to use username
-- [ ] AI chat should sync when a new message arrives
 - [ ] Global touch up for launch
 - [ ] Product launch - reddit, product hunt?, HN?
 
 
 ## In Progress
 
-- [ ] Change units
 - [ ] Set reference lap (compare with shared and self)
 
 
 ## Done
 
 **Complete**
+- [x] Change units
 - [x] Auto AI Insights - panel and chat
 - [x] Toolbar to add session to saved sessions
 - [x] Implement plan limits
