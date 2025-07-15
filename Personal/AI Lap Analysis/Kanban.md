@@ -10,12 +10,10 @@ kanban-plugin: board
 - [ ] Chat push notifications
 - [ ] Pricing - checkout flow doesn't seem to work on first signup
 - [ ] When session is uplaoded, data on screen doesn't react/relaod
-- [ ] Loading latest session might leak session IDs, only list owner sessions
 - [ ] Feature: sync up youtube video
-- [ ] ">" 50 users won't load chat participants correctly
 - [ ] Sending lap context for AI from client is not efficient
 - [ ] Mini sectors viz
-- [ ] PRO avatar border
+- [ ] Optimal time compare
 - [ ] Chat message loading - again! - remove initial functionality, rather do properly?
 - [ ] See that a session is a shared session - title?
 - [ ] Email coming from perfect apex not supabase?
@@ -31,27 +29,29 @@ kanban-plugin: board
 
 ## Up Next
 
-- [ ] Change all user references to use username
 - [ ] Scrub from charts? Floating playback bar?
-- [ ] AI chat should sync when a new message arrives
-- [ ] Check data displays and interpolation - implement smoothing
 - [ ] Add support for phase 1 data import formats
 	
 	- [ ] Track addict
 	- [ ] RaceChrono
 	- [ ] VBO
+- [ ] When session is not added to user, chat cannot be viewed
 - [ ] Global touch up for launch
 - [ ] Product launch - reddit, product hunt?, HN?
 
 
 ## In Progress
 
-- [ ] Set reference lap (compare with shared and self)
+- [ ] Check data displays and interpolation - implement smoothing
 
 
 ## Done
 
 **Complete**
+- [x] AI chat should sync when a new message arrives
+- [x] PRO avatar border
+- [x] Change all user references to use username, consistent avatars, pro and racer badges
+- [x] Set reference lap (compare with shared and self)
 - [x] Change units
 - [x] Auto AI Insights - panel and chat
 - [x] Toolbar to add session to saved sessions
