@@ -6,12 +6,11 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Scrub from charts? Floating playback bar?
 - [ ] Session history stats
 - [ ] Chat push notifications
 - [ ] Pricing - checkout flow doesn't seem to work on first signup
-- [ ] When session is uplaoded, data on screen doesn't react/relaod
 - [ ] Feature: sync up youtube video
-- [ ] Sending lap context for AI from client is not efficient
 - [ ] Mini sectors viz
 - [ ] Optimal time compare
 - [ ] Chat message loading - again! - remove initial functionality, rather do properly?
@@ -29,25 +28,27 @@ kanban-plugin: board
 
 ## Up Next
 
-- [ ] Scrub from charts? Floating playback bar?
-- [ ] Add support for phase 1 data import formats
-	
-	- [ ] Track addict
-	- [ ] RaceChrono
-	- [ ] VBO
 - [ ] When session is not added to user, chat cannot be viewed
 - [ ] Global touch up for launch
+- [ ] Add ToS
 - [ ] Product launch - reddit, product hunt?, HN?
 
 
 ## In Progress
 
 - [ ] Check data displays and interpolation - implement smoothing
+- [ ] Add support for phase 1 data import formats
+	
+	- [x] Track addict
+	- [ ] RaceChrono
+	- [ ] VBO
 
 
 ## Done
 
 **Complete**
+- [x] Sending lap context for AI from client is not efficient
+- [x] When session is uplaoded, data on screen doesn't react/relaod
 - [x] AI chat should sync when a new message arrives
 - [x] PRO avatar border
 - [x] Change all user references to use username, consistent avatars, pro and racer badges
