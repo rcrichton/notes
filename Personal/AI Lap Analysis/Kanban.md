@@ -55,6 +55,8 @@ kanban-plugin: board
 	  - [ ] Improve lap selector styling
 	  - [ ] History and discover pagination
 	  - [ ] Ability to switch plans
+	  - [ ] Ensure users can only have one active subscription
+	  - [ ] Edit and update landing page info and screenshots
 - [ ] Add support for phase 1 data import formats
 	
 	- [x] Track addict
