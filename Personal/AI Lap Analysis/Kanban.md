@@ -24,29 +24,50 @@ kanban-plugin: board
 - [ ] Feature: Activity feed, profile, follow list
 - [ ] Feature: achievements
 - [ ] Feature: Automatic posts to socials for achievements and new sessions
+- [ ] Consistency score
 
 
 ## Up Next
 
-- [ ] When session is not added to user, chat cannot be viewed
-- [ ] Global touch up for launch
-- [ ] Add ToS
-- [ ] Product launch - reddit, product hunt?, HN?
+- [ ] Beta launch - reddit
 
 
 ## In Progress
 
-- [ ] Check data displays and interpolation - implement smoothing
+- [ ] Global touch up for launch
+	  - [ ] check payment flow
+	  - [ ] Faster loading, better loading state
+	  - [ ] Security check
+	  - [ ] Set public feature flags
+	  - [ ] Message send animation
+	  - [ ] File upload first then metadata
+	  - [ ] Parser validation
+	  - [ ] Note about each upload format
+	  - [ ] Remove mapbox map
+	  - [ ] Chart tooltips
+	  - [ ] AI Insights error handling
+	  - [ ] Delta legend
+	  - [ ] Lap events support for units
+	  - [ ] AI time tagging
+	  - [ ] Sessions timestamp not only date
+	  - [ ] Tooltip consistency
+	  - [ ] Distance toggle unit preferences support
+	  - [ ] Improve lap selector styling
+	  - [ ] History and discover pagination
+	  - [ ] Ability to switch plans
 - [ ] Add support for phase 1 data import formats
 	
 	- [x] Track addict
-	- [ ] RaceChrono
+	- [x] RaceChrono
 	- [ ] VBO
 
 
 ## Done
 
 **Complete**
+- [x] Add ToS
+- [x] When session is not added to user, chat cannot be viewed
+- [x] Check data displays and interpolation - implement smoothing
 - [x] Sending lap context for AI from client is not efficient
 - [x] When session is uplaoded, data on screen doesn't react/relaod
 - [x] AI chat should sync when a new message arrives
