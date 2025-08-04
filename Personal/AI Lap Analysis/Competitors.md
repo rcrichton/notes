@@ -1,6 +1,6 @@
 https://myracelab.com/
 
-garmin catylst
+garmin catalyst 
 - https://youtu.be/9nDkfLvMTfM?si=9I0k0jV0u2dLAaUh
 - https://youtu.be/3fS1SIYFkqE?si=gdprexxsY9Xh_BQ8
 - 
@@ -14,3 +14,11 @@ traophi.ai (sim only, but moving to real world)
 https://racecue.com/
 
 https://serious-racing.com/
+
+Circuit tools
+
+Fire laps
+
+https://app.xrace.ai/home
+
+https://www.laminarinsights.com/project/telemetry-copilot

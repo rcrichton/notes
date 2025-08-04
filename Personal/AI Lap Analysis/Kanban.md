@@ -6,67 +6,82 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Scrub from charts? Floating playback bar?
+- [ ] Scrub from charts? Floating playback bar? Replace mobile toolbar?
 - [ ] Session history stats
 - [ ] Chat push notifications
-- [ ] Pricing - checkout flow doesn't seem to work on first signup
 - [ ] Feature: sync up youtube video
 - [ ] Mini sectors viz
 - [ ] Optimal time compare
-- [ ] Chat message loading - again! - remove initial functionality, rather do properly?
-- [ ] See that a session is a shared session - title?
 - [ ] Email coming from perfect apex not supabase?
 - [ ] App bar slow to collapse
 - [ ] Time codes didn't correlate in AI chat - see https://discord.com/channels/712415168348553349/714382956957007922/1380106633916583966
-- [ ] Profile pic rerenders when toggling between chats and when chat renders e.g. streaming
-- [ ] Login from history page lost shared session
 - [ ] Likes for session or laps
 - [ ] Feature: Activity feed, profile, follow list
 - [ ] Feature: achievements
 - [ ] Feature: Automatic posts to socials for achievements and new sessions
 - [ ] Consistency score
+- [ ] Import F1 data via https://tracinginsights.com/data/
 
 
 ## Up Next
 
+- [ ] Calculated lap boundary
+- [ ] - [ ] Parser validation
+- [ ] - [ ] Security check
+- [ ] - [ ] Edit and update landing page info and screenshots
+- [ ] Google auth
+- [ ] Save session not working. Free user. 
+	
+	{
+	    "code": "42P17",
+	    "details": null,
+	    "hint": null,
+	    "message": "infinite recursion detected in policy for relation \"user_sessions\""
+	}
+- [ ] - [ ] Set public feature flags
 - [ ] Beta launch - reddit
 
 
 ## In Progress
 
-- [ ] Global touch up for launch
-	  - [ ] check payment flow
-	  - [ ] Faster loading, better loading state
-	  - [ ] Security check
-	  - [ ] Set public feature flags
-	  - [ ] Message send animation
-	  - [ ] File upload first then metadata
-	  - [ ] Parser validation
-	  - [ ] Note about each upload format
-	  - [ ] Remove mapbox map
-	  - [ ] Chart tooltips
-	  - [ ] AI Insights error handling
-	  - [ ] Delta legend
-	  - [ ] Lap events support for units
-	  - [ ] AI time tagging
-	  - [ ] Sessions timestamp not only date
-	  - [ ] Tooltip consistency
-	  - [ ] Distance toggle unit preferences support
-	  - [ ] Improve lap selector styling
-	  - [ ] History and discover pagination
-	  - [ ] Ability to switch plans
-	  - [ ] Ensure users can only have one active subscription
-	  - [ ] Edit and update landing page info and screenshots
+- [ ] Check payment flow
+	- [x] Pricing - checkout flow doesn't seem to work on first signup
+	- [x] Cancelling deactivates subscription
+	- [ ] Failed payment deactivates subscription
 - [ ] Add support for phase 1 data import formats
 	
 	- [x] Track addict
 	- [x] RaceChrono
+	- [ ] Race box CSV
 	- [ ] VBO
+- [ ] Collect test data file from community
 
 
 ## Done
 
 **Complete**
+- [x] Go to app button on pricing page
+- [x] - [x] Ensure users can only have one active subscription
+- [x] - [x] Chart tooltips
+- [x] - [x] Tooltip consistency
+- [x] - [x] Ability to switch plans
+- [x] Fix compare session selection (pagination)
+- [x] Fix for you section in discover
+- [x] - [x] History and discover pagination
+- [x] - [x] Message send animation or inject message in chat before saved
+- [x] Chat message loading - again! - remove initial functionality, rather do properly?
+- [x] - [x] Faster loading, better loading state
+- [x] - [x] Sessions timestamp not only date
+- [x] - [x] AI time tagging
+- [x] - [x] File upload first then metadata
+- [x] - [x] Note about each upload format
+- [x] - [x] AI Insights error handling
+- [x] - [x] Distance toggle unit preferences support
+- [x] - [x] Lap events support for units
+- [x] - [x] Remove mapbox map
+- [x] - [x] Delta legend
+- [x] - [x] Improve lap selector styling
+- [x] Improve display of under construction mobile toolbar buttons
 - [x] Add ToS
 - [x] When session is not added to user, chat cannot be viewed
 - [x] Check data displays and interpolation - implement smoothing
@@ -129,6 +144,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"tag-colors":[]}
 ```
 %%
