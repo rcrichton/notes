@@ -1,7 +1,8 @@
 My fulltime salary as per hour: R950/hr, $52.50
 Jembi/Symbionics: R1200/hr, $70/hr
+* day rate: R9500/d, $500/d
 General contracting: R2000/hr, $115/hr
-
+* R15k/d, $900/d
 
 ## Perfect Apex value
 

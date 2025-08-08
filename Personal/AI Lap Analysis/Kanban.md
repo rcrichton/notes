@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Scrub from charts? Floating playback bar? Replace mobile toolbar?
 - [ ] Session history stats
 - [ ] Chat push notifications
 - [ ] Feature: sync up youtube video
@@ -21,6 +20,7 @@ kanban-plugin: board
 - [ ] Feature: Automatic posts to socials for achievements and new sessions
 - [ ] Consistency score
 - [ ] Import F1 data via https://tracinginsights.com/data/
+- [ ] Feature: implement tracking of vehicle OBD data for visualisation
 
 
 ## Up Next
@@ -29,17 +29,11 @@ kanban-plugin: board
 - [ ] - [ ] Parser validation
 - [ ] - [ ] Security check
 - [ ] - [ ] Edit and update landing page info and screenshots
-- [ ] Google auth
-- [ ] Save session not working. Free user. 
-	
-	{
-	    "code": "42P17",
-	    "details": null,
-	    "hint": null,
-	    "message": "infinite recursion detected in policy for relation \"user_sessions\""
-	}
 - [ ] - [ ] Set public feature flags
 - [ ] Beta launch - reddit
+- [ ] GPS delay?
+- [ ] In discover plan styling in wrong for my account - probably duplicate sub
+- [ ] AI could be wrong message
 
 
 ## In Progress
@@ -60,6 +54,19 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Scrub from charts? Floating playback bar? Replace mobile toolbar?
+	- [x] Basic design and playback functionality
+	- [x] Hook up chat features
+- [x] Google auth
+	- [x] Check new user signup
+- [x] Save session not working. Free user. 
+	
+	{
+	    "code": "42P17",
+	    "details": null,
+	    "hint": null,
+	    "message": "infinite recursion detected in policy for relation \"user_sessions\""
+	}
 - [x] Go to app button on pricing page
 - [x] - [x] Ensure users can only have one active subscription
 - [x] - [x] Chart tooltips
