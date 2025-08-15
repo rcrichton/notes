@@ -21,39 +21,58 @@ kanban-plugin: board
 - [ ] Consistency score
 - [ ] Import F1 data via https://tracinginsights.com/data/
 - [ ] Feature: implement tracking of vehicle OBD data for visualisation
+- [ ] Feature: event viz in track map
+- [ ] Feature: AI chat/insights in compare
+- [ ] Finish support for generic VBO. issue is they are non-standard.
+	- RaceChrono VBO - [laptiming] (long, lat, flip long) - inline first point on start finish second point for orientation?
+	- RaceBox VBO - [laptiming] (lat, long; flip long) - points make finish line
+	- TrackAddict VBO, no [laptiming] but has lap column
 
 
 ## Up Next
 
-- [ ] Calculated lap boundary
-- [ ] - [ ] Parser validation
-- [ ] - [ ] Security check
-- [ ] - [ ] Edit and update landing page info and screenshots
-- [ ] - [ ] Set public feature flags
+- [ ] Security check
+- [ ] Edit and update landing page info and screenshots
+- [ ] Configure emails STMP
+- [ ] Configure live payment gateway
+- [ ] Set public feature flags
 - [ ] Beta launch - reddit
-- [ ] GPS delay?
-- [ ] In discover plan styling in wrong for my account - probably duplicate sub
-- [ ] AI could be wrong message
 
 
 ## In Progress
 
+- [ ] Data processing
+	- [x] Finalise processing and interpolation
+	- [ ] Calculated lap boundary?
+	- [x] Parser validation
+	- [ ] GPS delay?
 - [ ] Check payment flow
 	- [x] Pricing - checkout flow doesn't seem to work on first signup
 	- [x] Cancelling deactivates subscription
 	- [ ] Failed payment deactivates subscription
-- [ ] Add support for phase 1 data import formats
-	
-	- [x] Track addict
-	- [x] RaceChrono
-	- [ ] Race box CSV
-	- [ ] VBO
-- [ ] Collect test data file from community
 
 
 ## Done
 
 **Complete**
+- [x] Laps aren't deleted when session is removed in db (cascade)
+- [x] Restrict AI insights to subs
+- [x] When redirecting after upload, plan usage won't load. This prevent uploading another file as storage check doesn't work.
+- [x] Open up discover page to all
+- [x] Restrict compare feature to subs
+- [x] Compare selection should only be the same track and layout
+- [x] Track layout required
+- [x] Add support for phase 1 data import formats
+	
+	- [x] Track addict
+	- [x] RaceChrono
+	- [x] Race box CSV
+	- [x] Lap Legend CSV
+- [x] Toggling smoothing doesn't keep zoom the same
+- [x] Toolbar disappears once no laps are selected - error
+- [x] Collect test data file from community
+- [x] AI could be wrong message
+- [x] In discover plan styling in wrong for my account - probably duplicate sub
 - [x] Scrub from charts? Floating playback bar? Replace mobile toolbar?
 	- [x] Basic design and playback functionality
 	- [x] Hook up chat features
