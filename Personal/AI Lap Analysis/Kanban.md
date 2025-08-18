@@ -27,13 +27,13 @@ kanban-plugin: board
 	- RaceChrono VBO - [laptiming] (long, lat, flip long) - inline first point on start finish second point for orientation?
 	- RaceBox VBO - [laptiming] (lat, long; flip long) - points make finish line
 	- TrackAddict VBO, no [laptiming] but has lap column
+- [ ] Handle  GPS delay?
 
 
 ## Up Next
 
 - [ ] Security check
 - [ ] Edit and update landing page info and screenshots
-- [ ] Configure emails STMP
 - [ ] Configure live payment gateway
 - [ ] Set public feature flags
 - [ ] Beta launch - reddit
@@ -41,11 +41,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Data processing
-	- [x] Finalise processing and interpolation
-	- [ ] Calculated lap boundary?
-	- [x] Parser validation
-	- [ ] GPS delay?
+- [ ] Configure emails SMTP
 - [ ] Check payment flow
 	- [x] Pricing - checkout flow doesn't seem to work on first signup
 	- [x] Cancelling deactivates subscription
@@ -55,6 +51,10 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Data processing
+	- [x] Finalise processing and interpolation
+	- [x] Calculated lap boundary?
+	- [x] Parser validation
 - [x] Laps aren't deleted when session is removed in db (cascade)
 - [x] Restrict AI insights to subs
 - [x] When redirecting after upload, plan usage won't load. This prevent uploading another file as storage check doesn't work.
