@@ -11,9 +11,7 @@ kanban-plugin: board
 - [ ] Feature: sync up youtube video
 - [ ] Mini sectors viz
 - [ ] Optimal time compare
-- [ ] Email coming from perfect apex not supabase?
 - [ ] App bar slow to collapse
-- [ ] Time codes didn't correlate in AI chat - see https://discord.com/channels/712415168348553349/714382956957007922/1380106633916583966
 - [ ] Likes for session or laps
 - [ ] Feature: Activity feed, profile, follow list
 - [ ] Feature: achievements
@@ -28,20 +26,21 @@ kanban-plugin: board
 	- RaceBox VBO - [laptiming] (lat, long; flip long) - points make finish line
 	- TrackAddict VBO, no [laptiming] but has lap column
 - [ ] Handle  GPS delay?
+- [ ] Feature: Generate session card for sharing
 
 
 ## Up Next
 
-- [ ] Security check
-- [ ] Edit and update landing page info and screenshots
-- [ ] Configure live payment gateway
-- [ ] Set public feature flags
+- [ ] After sub, not refreshed
+- [ ] Beta launch - email
 - [ ] Beta launch - reddit
 
 
 ## In Progress
 
-- [ ] Configure emails SMTP
+- [ ] Set public feature flags
+- [ ] Comprehensive testing
+- [ ] Configure live payment gateway
 - [ ] Check payment flow
 	- [x] Pricing - checkout flow doesn't seem to work on first signup
 	- [x] Cancelling deactivates subscription
@@ -51,6 +50,17 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Chat stays loading for logged out users
+- [x] Edit and update landing page info and screenshots
+- [x] Time codes didn't correlate in AI chat - see https://discord.com/channels/712415168348553349/714382956957007922/1380106633916583966
+- [x] Chat times and dates
+- [x] Investigate wrong AI insights numbers
+	
+	The issue is the AI works on raw data not smoothed.
+- [x] Can't save session
+- [x] Security check
+- [x] Email coming from perfect apex not supabase?
+- [x] Configure emails SMTP
 - [x] Data processing
 	- [x] Finalise processing and interpolation
 	- [x] Calculated lap boundary?
