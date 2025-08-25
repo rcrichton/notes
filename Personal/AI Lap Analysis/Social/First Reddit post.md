@@ -1,3 +1,7 @@
+---
+post date: 2025-04-10
+title: "Project Idea: AI Race Engineer for Track Days - Thoughts & Feedback Welcome"
+---
 # First Reddit post
 Title: Looking for suggestions and feedback: AI Race Engineer
 

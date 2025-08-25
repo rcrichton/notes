@@ -74,17 +74,17 @@
             "id": "3a9e2357ca53854e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Personal/AI Lap Analysis/Costs.md",
-                "mode": "source",
-                "source": false
+                "file": "Personal/AI Lap Analysis/Social/Posts.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Costs"
+              "icon": "lucide-table",
+              "title": "Posts"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,6 +221,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -232,11 +233,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4e21d6788edc61f4",
+  "active": "3a9e2357ca53854e",
   "lastOpenFiles": [
-    "Personal/AI Lap Analysis/Costs.md",
+    "Personal/AI Lap Analysis/Social/Third post - sneak peek.md",
+    "Personal/AI Lap Analysis/Social/Posts.base",
+    "Personal/AI Lap Analysis/Social/First Reddit post.md",
+    "Personal/AI Lap Analysis/Social/Second Reddit post (demo).md",
+    "Personal/AI Lap Analysis/Competitors.md",
+    "Personal/AI Lap Analysis/Test.base",
+    "Untitled.md",
+    "Untitled 2.md",
     "Personal/AI Lap Analysis/Kanban.md",
+    "Personal/AI Lap Analysis/Untitled.canvas",
+    "Untitled 1.md",
+    "Personal/Resignation pros and cons.md",
+    "Personal/AI Lap Analysis/Costs.md",
     "Personal/Contracting rates.md",
+    "Personal/AI Lap Analysis/Marketing plan.md",
     "Personal/AI Lap Analysis/Synthetic start finish.md",
     "Personal/AI Lap Analysis/Features+Ideas.md",
     "Jembi/Jembi contract adjustment.md",
@@ -246,21 +259,11 @@
     "Personal/AI Lap Analysis/Kanban.sync-conflict-20250807-132950-2X6UHCP.md",
     "Personal/AI Lap Analysis/Kanban.sync-conflict-20250728-170629-2X6UHCP.md",
     "Jembi/Work experience.md",
-    "Personal/Resignation pros and cons.md",
-    "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/Storage optimization plan.md",
-    "Personal/AI Lap Analysis/Marketing plan.md",
     "Personal/AI Lap Analysis/Notes.md",
     "Personal/AI Lap Analysis/ERD.md",
-    "Personal/AI Lap Analysis/Social/Second Reddit post (demo).md",
-    "Personal/AI Lap Analysis/Social/First Reddit post.md",
     "Personal/AI Lap Analysis/Racing Telemetry Feature Analysis.md",
-    "Jembi/HIV-TB Gates/Overview.md",
-    "Jembi/HIV-TB Gates/Tech options.md",
-    "Personal/AI Lap Analysis/Sessions sharing notes.md",
-    "Jembi/GCC.md",
     "Personal/AI Lap Analysis/Social",
-    "Jembi/Eth CHR+NDR/Architecture.md",
     "Excalidraw",
     "Jembi/Eth CHR+NDR",
     "Jembi/HIV-TB Gates",

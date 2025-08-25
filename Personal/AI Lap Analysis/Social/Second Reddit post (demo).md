@@ -1,3 +1,7 @@
+---
+post date: 2025-06-10
+title: "Update on my AI Race Engineer: Pivoting to an Open Motorsports Data Platform - Feedback Appreciated!"
+---
 Title: Work in progress: Open Motorsports Data Platform (Update post)
 Hi all,
 

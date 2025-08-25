@@ -9,6 +9,10 @@ Gemin output tokens: $10.00/M, prompts <= 200k tokens
 1 request = ($1.25 * 20000 / 1000000) + ($10 * 8192 / 1000000) + ($10 * 1000 / 1000000)
 1 request = 0.025 + 0.08192 + 0.01
 1 request = $0.11692 = R2,04
+
+Optional:
+Google workspace: $6.30
+Obsidian sync: 
 # Free plan
 Income: $0
 100MB = $0.025

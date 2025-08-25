@@ -1,0 +1,20 @@
+properties:
+  note.title:
+    displayName: post title
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Personal/AI Lap Analysis/Social")
+        - file.hasProperty("post date")
+    order:
+      - title
+      - post date
+    sort:
+      - property: post date
+        direction: DESC
+      - property: title
+        direction: ASC
+    columnSize:
+      note.title: 764
