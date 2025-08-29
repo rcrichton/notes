@@ -31,25 +31,28 @@ kanban-plugin: board
 
 ## Up Next
 
-- [ ] After sub, not refreshed
-- [ ] Beta launch - email
 - [ ] Beta launch - reddit
 
 
 ## In Progress
 
-- [ ] Set public feature flags
-- [ ] Comprehensive testing
-- [ ] Configure live payment gateway
-- [ ] Check payment flow
-	- [x] Pricing - checkout flow doesn't seem to work on first signup
-	- [x] Cancelling deactivates subscription
-	- [ ] Failed payment deactivates subscription
 
 
 ## Done
 
 **Complete**
+- [x] Only owner should see details analysis button
+- [x] Beta launch - email
+- [x] Set public feature flags
+- [x] Configure live payment gateway
+- [x] Comprehensive testing
+- [x] Shared chat @AI not creating time tag links
+- [x] Change time tag to select lap rather than deselect all
+- [x] Change rate limits to monthly
+- [x] Check payment flow
+	- [x] Pricing - checkout flow doesn't seem to work on first signup
+	- [x] Cancelling deactivates subscription
+	- [x] Failed payment deactivates subscription
 - [x] Chat stays loading for logged out users
 - [x] Edit and update landing page info and screenshots
 - [x] Time codes didn't correlate in AI chat - see https://discord.com/channels/712415168348553349/714382956957007922/1380106633916583966

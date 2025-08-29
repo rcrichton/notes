@@ -74,17 +74,31 @@
             "id": "3a9e2357ca53854e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Personal/AI Lap Analysis/Social/Posts.base",
-                "viewName": "Table"
+                "file": "Personal/AI Lap Analysis/Costs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Posts"
+              "icon": "lucide-file",
+              "title": "Costs"
+            }
+          },
+          {
+            "id": "ce8b74fded400430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/HP Tuners/Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dd8d9ac16478a66b",
@@ -233,22 +248,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3a9e2357ca53854e",
+  "active": "4e21d6788edc61f4",
   "lastOpenFiles": [
-    "Personal/AI Lap Analysis/Social/Third post - sneak peek.md",
+    "Personal/HP Tuners/Questions.md",
+    "Personal/AI Lap Analysis/Kanban.md",
+    "Personal/Contracting rates.md",
+    "Personal/AI Lap Analysis/Costs.md",
+    "Personal/HP Tuners",
     "Personal/AI Lap Analysis/Social/Posts.base",
+    "Personal/AI Lap Analysis/Social/Third post - sneak peek.md",
     "Personal/AI Lap Analysis/Social/First Reddit post.md",
     "Personal/AI Lap Analysis/Social/Second Reddit post (demo).md",
     "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/Test.base",
     "Untitled.md",
     "Untitled 2.md",
-    "Personal/AI Lap Analysis/Kanban.md",
     "Personal/AI Lap Analysis/Untitled.canvas",
     "Untitled 1.md",
     "Personal/Resignation pros and cons.md",
-    "Personal/AI Lap Analysis/Costs.md",
-    "Personal/Contracting rates.md",
     "Personal/AI Lap Analysis/Marketing plan.md",
     "Personal/AI Lap Analysis/Synthetic start finish.md",
     "Personal/AI Lap Analysis/Features+Ideas.md",
@@ -271,7 +288,6 @@
     "Personal",
     "Jembi",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Jembi/Madagascar"
+    "Untitled.canvas"
   ]
 }
