@@ -10,7 +10,6 @@
           {
             "id": "4e21d6788edc61f4",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -25,21 +24,8 @@
                   ]
                 }
               },
-              "pinned": true,
               "icon": "lucide-trello",
               "title": "Kanban"
-            }
-          },
-          {
-            "id": "b1d3075d7d373898",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Personal/AI Lap Analysis/Synthetic start finish.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Synthetic start finish"
             }
           },
           {
@@ -54,48 +40,6 @@
               },
               "icon": "lucide-file",
               "title": "Features+Ideas"
-            }
-          },
-          {
-            "id": "59bff672ca2d5ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Contracting rates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Contracting rates"
-            }
-          },
-          {
-            "id": "3a9e2357ca53854e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/AI Lap Analysis/Costs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Costs"
-            }
-          },
-          {
-            "id": "ce8b74fded400430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/HP Tuners/Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions"
             }
           }
         ]
@@ -155,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dd8d9ac16478a66b",
@@ -172,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/AI Lap Analysis/Kanban.md",
+                "file": "Personal/AI Lap Analysis/Features+Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban"
+              "title": "Backlinks for Features+Ideas"
             }
           },
           {
@@ -250,44 +193,43 @@
   },
   "active": "4e21d6788edc61f4",
   "lastOpenFiles": [
-    "Personal/HP Tuners/Questions.md",
-    "Personal/AI Lap Analysis/Kanban.md",
-    "Personal/Contracting rates.md",
-    "Personal/AI Lap Analysis/Costs.md",
-    "Personal/HP Tuners",
-    "Personal/AI Lap Analysis/Social/Posts.base",
-    "Personal/AI Lap Analysis/Social/Third post - sneak peek.md",
-    "Personal/AI Lap Analysis/Social/First Reddit post.md",
-    "Personal/AI Lap Analysis/Social/Second Reddit post (demo).md",
-    "Personal/AI Lap Analysis/Competitors.md",
-    "Personal/AI Lap Analysis/Test.base",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Personal/AI Lap Analysis/Untitled.canvas",
-    "Untitled 1.md",
-    "Personal/Resignation pros and cons.md",
-    "Personal/AI Lap Analysis/Marketing plan.md",
-    "Personal/AI Lap Analysis/Synthetic start finish.md",
-    "Personal/AI Lap Analysis/Features+Ideas.md",
-    "Jembi/Jembi contract adjustment.md",
-    "Personal/AI Lap Analysis/Data parsing and processing.md",
     "Personal/Shelf mockup.md",
-    "Personal/AI Lap Analysis/Kanban.sync-conflict-20250811-130711-2HAFDRM.md",
-    "Personal/AI Lap Analysis/Kanban.sync-conflict-20250807-132950-2X6UHCP.md",
-    "Personal/AI Lap Analysis/Kanban.sync-conflict-20250728-170629-2X6UHCP.md",
-    "Jembi/Work experience.md",
+    "Personal/HP Tuners/Questions.md",
+    "Personal/HP Tuners",
+    "Personal/Contracting rates.md",
+    "Personal/AI Lap Analysis/Synthetic start finish.md",
+    "Personal/AI Lap Analysis/Social/Third post - sneak peek.md",
+    "Personal/AI Lap Analysis/Social/Posts.base",
+    "Personal/AI Lap Analysis/Marketing plan.md",
+    "Personal/AI Lap Analysis/Data parsing and processing.md",
+    "Personal/AI Lap Analysis/Costs.md",
+    "Personal/AI Lap Analysis/Features+Ideas.md",
+    "Personal/AI Lap Analysis/Kanban.md",
     "Personal/AI Lap Analysis/Storage optimization plan.md",
+    "Personal/AI Lap Analysis/Social/Second Reddit post (demo).md",
+    "Personal/AI Lap Analysis/Social/First Reddit post.md",
+    "Jembi/HIV-TB Gates/Overview.md",
+    "Jembi/HIV-TB Gates/Tech options.md",
     "Personal/AI Lap Analysis/Notes.md",
-    "Personal/AI Lap Analysis/ERD.md",
-    "Personal/AI Lap Analysis/Racing Telemetry Feature Analysis.md",
+    "Personal/Resignation pros and cons.md",
+    "Jembi/Work experience.md",
+    "Jembi/Jembi contract adjustment.md",
+    "Personal/AI Lap Analysis/Sessions sharing notes.md",
+    "Jembi/GCC.md",
+    "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/Social",
+    "Jembi/Eth CHR+NDR/Architecture.md",
     "Excalidraw",
     "Jembi/Eth CHR+NDR",
+    "Personal/AI Lap Analysis/Planning.md",
+    "Personal/AI Lap Analysis/Racing Telemetry Feature Analysis.md",
     "Jembi/HIV-TB Gates",
+    "Personal/AI Lap Analysis/ERD.md",
     "Personal/AI Lap Analysis",
     "Personal",
     "Jembi",
     "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled.canvas",
+    "Jembi/Madagascar"
   ]
 }
