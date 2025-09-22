@@ -45,28 +45,20 @@
             }
           },
           {
-            "id": "a47c14a71df51883",
+            "id": "8c8d70a5a1496caf",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Personal/AI Lap Analysis/Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Personal/AI Lap Analysis/Competitors.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "lucide-file",
+              "title": "Competitors"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,21 +193,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a47c14a71df51883",
+  "active": "3213002b4c605548",
   "lastOpenFiles": [
-    "Personal/AI Lap Analysis/Social and marketing/Fourth reddit post - open beta launch.md",
-    "Personal/AI Lap Analysis/Kanban.md",
-    "Personal/AI Lap Analysis/Social and marketing/Third reddit post - sneak peek.md",
-    "Personal/AI Lap Analysis/Lap Timer Integration - Strategy & Technical Plan.md",
-    "Personal/AI Lap Analysis/Social and marketing/First Reddit post.md",
-    "Personal/AI Lap Analysis/Social and marketing/Posts.base",
-    "Personal/AI Lap Analysis/Social and marketing/Second Reddit post (demo).md",
-    "Personal/AI Lap Analysis/Social and marketing",
-    "Personal/AI Lap Analysis/Features+Ideas.md",
-    "Personal/AI Lap Analysis/Competitors.md",
-    "Personal/AI Lap Analysis/Social/Posts.base",
     "Personal/AI Lap Analysis/Social/Third post - sneak peek.md",
+    "Personal/AI Lap Analysis/Social/Posts.base",
+    "Personal/AI Lap Analysis/Competitors.md",
     "Personal/Contracting rates.md",
+    "Personal/AI Lap Analysis/Kanban.md",
+    "Personal/AI Lap Analysis/Features+Ideas.md",
     "Personal/AI Lap Analysis/Kanban.sync-conflict-20250811-130711-2HAFDRM.md",
     "Personal/AI Lap Analysis/Data parsing and processing.md",
     "Personal/AI Lap Analysis/Kanban.sync-conflict-20250807-132950-2X6UHCP.md",
