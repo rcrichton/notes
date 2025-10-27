@@ -6,14 +6,17 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Session history stats
-- [ ] Chat push notifications
+- [ ] Revenue: sponsorship - logo in session list linking to site
+- [ ] Feature: Activity feed, profile, follow list
+	
+	Likes for session or laps
+- [ ] Revenue: Ads in the feed about new devices or apps or performance parts
+- [ ] Feat: share session stats card to socials
+- [ ] Device support: AIM
 - [ ] Feature: sync up youtube video
 - [ ] Mini sectors viz
 - [ ] Optimal time compare
-- [ ] App bar slow to collapse
-- [ ] Likes for session or laps
-- [ ] Feature: Activity feed, profile, follow list
+- [ ] Fix: App bar slow to collapse
 - [ ] Feature: achievements
 - [ ] Feature: Automatic posts to socials for achievements and new sessions
 - [ ] Consistency score
@@ -25,7 +28,6 @@ kanban-plugin: board
 	- RaceChrono VBO - [laptiming] (long, lat, flip long) - inline first point on start finish second point for orientation?
 	- RaceBox VBO - [laptiming] (lat, long; flip long) - points make finish line
 	- TrackAddict VBO, no [laptiming] but has lap column
-- [ ] Feature: Generate session card for sharing
 - [ ] Feature: Video sync e.g. using https://www.mux.com/pricing/video
 - [ ] Feature: 3rd party integration to popular lap timers
 - [ ] Analyse specific corners?
@@ -36,32 +38,50 @@ kanban-plugin: board
 - [ ] The upload modal disappears if you click outside it and any entered data is removed.
 - [ ] Upload multiple sessions at once
 - [ ] Feat: User garage
-
-
-## Up Next
-
+- [ ] Social: Create discord?
 - [ ] **Account for traffic or slow laps**
 	
 	"The most significant piece of feedback on the AI is that it doesn't seem to account for traffic or other external factors. One user pointed out that the AI flagged a massive speed difference in a corner that was clearly caused by traffic, not driver error."
 	
 	"One thing I would like to know, in hpde timing, is how many times in a lap I slowed down to let a faster driver by. Maybe throttle lifts in a straight would be an approximate measure."
+- [ ] Support autocross data
+
+
+## Up Next
+
+- [ ] Chat push notifications
 
 
 ## In Progress
 
-- [ ] **Remember car details**
-	
-	The app doesn't remember the user's car and driver name, requiring them to be re-entered with each use.
-- [ ] **Fix use of units in AI analysis**
-	
-	A user reported that their preference for MPH in the settings is ignored, with the app displaying KPH instead.
-- [ ] keep the screen alive while the play back of the lap is running on the map. If it's a PWA you can use await navigator.wakeLock.request('screen').
-- [ ] First 2 session uploaded should get free AI analysis
 
 
 ## Done
 
 **Complete**
+- [x] Inconsistency zones
+	 - [x] Make pro feature?
+	 - [x] Don't show if very consistent
+	 - [x] Performance test
+	 - [x] Add to AI context
+	 - [x] Check if AI uses smoothed data
+- [x] Device support: Harry's laptimer
+- [x] Device support: CircuitStorm
+- [x] Feat: Add notes
+- [x] Feat: edit session
+- [x] Fix: Pre-fetching responsiveness
+- [x] Add basic sponsor feature
+- [x] Device support: Apex Pro Gen 1
+- [x] Enhance SEO
+- [x] Session history stats
+- [x] First 2 session uploaded should get free AI analysis
+- [x] keep the screen alive while the play back of the lap is running on the map. If it's a PWA you can use await navigator.wakeLock.request('screen').
+- [x] **Fix use of units in AI analysis**
+	
+	A user reported that their preference for MPH in the settings is ignored, with the app displaying KPH instead.
+- [x] **Remember car details**
+	
+	The app doesn't remember the user's car and driver name, requiring them to be re-entered with each use.
 - [x] Beta launch - reddit
 - [x] Handle  GPS delay?
 - [x] Add compare feature to landing page

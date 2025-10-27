@@ -59,76 +59,20 @@
             }
           },
           {
-            "id": "e9cbb612b7d3047f",
+            "id": "553e34676ad47a21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Personal/AI Lap Analysis/Marketing plan.md",
-                "mode": "source",
-                "source": false
+                "file": "Personal/AI Lap Analysis/Kanban.md",
+                "kanbanViewState": {}
               },
-              "icon": "lucide-file",
-              "title": "Marketing plan"
-            }
-          },
-          {
-            "id": "d6e57e1639ba53a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/AI Lap Analysis/Enterprise revenue ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enterprise revenue ideas"
-            }
-          },
-          {
-            "id": "6b9e549db22650fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/AI Lap Analysis/Social and marketing/Fourth reddit post - open beta launch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fourth reddit post - open beta launch"
-            }
-          },
-          {
-            "id": "1322364e5db5d22a",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Personal/AI Lap Analysis/Social and marketing/Posts.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Posts"
-            }
-          },
-          {
-            "id": "aa758beed072ebac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/AI Lap Analysis/Enterprise revenue ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enterprise revenue ideas"
+              "icon": "lucide-trello",
+              "title": "Kanban"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/AI Lap Analysis/Enterprise revenue ideas.md",
+                "file": "Personal/AI Lap Analysis/Features+Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Enterprise revenue ideas"
+              "title": "Backlinks for Features+Ideas"
             }
           },
           {
@@ -277,27 +221,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aa758beed072ebac",
+  "active": "553e34676ad47a21",
   "lastOpenFiles": [
-    "Personal/AI Lap Analysis/Marketing plan.md",
     "Personal/AI Lap Analysis/Enterprise revenue ideas.md",
-    "Personal/AI Lap Analysis/Kanban.md",
-    "Personal/AI Lap Analysis/Competitors.md",
-    "Personal/AI Lap Analysis/Social and marketing/Posts.base",
-    "Personal/AI Lap Analysis/Social and marketing/Whatsapp messages.md",
-    "Personal/AI Lap Analysis/Social and marketing/Third reddit post - sneak peek.md",
     "Personal/AI Lap Analysis/Social and marketing/Forum posts.md",
-    "Personal/AI Lap Analysis/Social and marketing/Fourth reddit post - open beta launch.md",
-    "Personal/AI Lap Analysis/Social and marketing/First Reddit post.md",
-    "Personal/AI Lap Analysis/Social and marketing/Second Reddit post (demo).md",
+    "Personal/AI Lap Analysis/Kanban.md",
+    "Personal/AI Lap Analysis/Marketing plan.md",
     "Personal/AI Lap Analysis/Notes.md",
+    "Personal/AI Lap Analysis/Social and marketing/Whatsapp messages.md",
     "Personal/AI Lap Analysis/Sessions sharing notes.md",
+    "Personal/AI Lap Analysis/Social and marketing/Fourth reddit post - open beta launch.md",
+    "Personal/AI Lap Analysis/Social and marketing/Third reddit post - sneak peek.md",
     "Personal/AI Lap Analysis/Synthetic start finish.md",
     "Personal/AI Lap Analysis/Social/Third post - sneak peek.sync-conflict-20250922-221209-2X6UHCP.md",
     "Personal/AI Lap Analysis/Lap Timer Integration - Strategy & Technical Plan.md",
     "Personal/AI Lap Analysis/Kanban.sync-conflict-20250922-221204-2X6UHCP.md",
     "Personal/HP Tuners/Contract.md",
     "Personal/AI Lap Analysis/Data file fixes.md",
+    "Personal/AI Lap Analysis/Social and marketing/Posts.base",
+    "Personal/AI Lap Analysis/Social and marketing/Second Reddit post (demo).md",
+    "Personal/AI Lap Analysis/Social and marketing/First Reddit post.md",
     "Personal/AI Lap Analysis/Social and marketing",
     "Personal/Shelf mockup.md",
     "Personal/HP Tuners/Questions.md",
@@ -308,6 +251,8 @@
     "Personal/AI Lap Analysis/Data parsing and processing.md",
     "Personal/AI Lap Analysis/Costs.md",
     "Personal/AI Lap Analysis/Features+Ideas.md",
+    "Personal/AI Lap Analysis/Storage optimization plan.md",
+    "Personal/AI Lap Analysis/Social/Second Reddit post (demo).md",
     "Personal/AI Lap Analysis/Social",
     "Excalidraw",
     "Jembi/Eth CHR+NDR",
