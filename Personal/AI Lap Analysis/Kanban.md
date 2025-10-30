@@ -7,9 +7,6 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Revenue: sponsorship - logo in session list linking to site
-- [ ] Feature: Activity feed, profile, follow list
-	
-	Likes for session or laps
 - [ ] Revenue: Ads in the feed about new devices or apps or performance parts
 - [ ] Feat: share session stats card to socials
 - [ ] Device support: AIM
@@ -19,10 +16,9 @@ kanban-plugin: board
 - [ ] Fix: App bar slow to collapse
 - [ ] Feature: achievements
 - [ ] Feature: Automatic posts to socials for achievements and new sessions
-- [ ] Consistency score
+- [ ] Support autocross data
 - [ ] Import F1 data via https://tracinginsights.com/data/
 - [ ] Feature: implement tracking of vehicle OBD data for visualisation
-- [ ] Feature: event viz in track map
 - [ ] Feature: AI chat/insights in compare
 - [ ] Finish support for generic VBO. issue is they are non-standard.
 	- RaceChrono VBO - [laptiming] (long, lat, flip long) - inline first point on start finish second point for orientation?
@@ -44,16 +40,43 @@ kanban-plugin: board
 	"The most significant piece of feedback on the AI is that it doesn't seem to account for traffic or other external factors. One user pointed out that the AI flagged a massive speed difference in a corner that was clearly caused by traffic, not driver error."
 	
 	"One thing I would like to know, in hpde timing, is how many times in a lap I slowed down to let a faster driver by. Maybe throttle lifts in a straight would be an approximate measure."
-- [ ] Support autocross data
 
 
 ## Up Next
 
-- [ ] Chat push notifications
+- [ ] Revenue: Build affiliate program feature
+	- [ ] Build tracking
+	- [ ] Email partners
+- [ ] Feature: event viz in track map
+- [ ] Marketing: track map viz
+	
+	- [ ] Create short video ad
+	- [ ] Create screenshots
+	- [ ] Reddit post
+	- [ ] Instagram post
+	- [ ] Email to users
+	- [ ] Boost post
+	
+	Due: @{2025-12-01}
+- [ ] Feature: Activity feed, profile, follow list
+	
+	Likes for session or laps
+	
+	Chat push notifications
 
 
 ## In Progress
 
+- [ ] Marketing: release delta, stats and inconsistency zones
+	
+	- [ ] Create short video ad
+	- [ ] Create screenshots
+	- [ ] Reddit post
+	- [ ] Instagram post
+	- [ ] Email to users
+	- [ ] Boost post
+	
+	Due: @{2025-11-03}
 
 
 ## Done

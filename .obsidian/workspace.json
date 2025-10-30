@@ -127,8 +127,7 @@
               "title": "Enterprise revenue ideas"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,10 +276,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aa758beed072ebac",
+  "active": "4e21d6788edc61f4",
   "lastOpenFiles": [
-    "Personal/AI Lap Analysis/Marketing plan.md",
     "Personal/AI Lap Analysis/Enterprise revenue ideas.md",
+    "Personal/AI Lap Analysis/Marketing plan.md",
     "Personal/AI Lap Analysis/Kanban.md",
     "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/Social and marketing/Posts.base",
