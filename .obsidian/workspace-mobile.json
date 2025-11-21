@@ -72,8 +72,7 @@
               "title": "Forum posts"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,10 +207,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "22b8ec2bc57076f0",
+  "active": "3213002b4c605548",
   "lastOpenFiles": [
-    "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/Social and marketing/Forum posts.md",
+    "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/Kanban.md",
     "Personal/AI Lap Analysis/Enterprise revenue ideas.md",
     "Personal/AI Lap Analysis/Social and marketing/Fourth reddit post - open beta launch.md",

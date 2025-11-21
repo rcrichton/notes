@@ -6,17 +6,36 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Feat: User garage
+- [ ] Device support: AIM + MOTECH
+- [ ] Support GM Cosworth PDR
+	
+	See https://mail.google.com/mail/u/1/#inbox/FMfcgzQcqlGxBRKfKbNGmltbSqgMlQCM
+- [ ] Feature: event viz in track map
+- [ ] Marketing: track map viz
+	
+	- [ ] Create short video ad
+	- [ ] Create screenshots
+	- [ ] Reddit post
+	- [ ] Instagram post
+	- [ ] Email to users
+	- [ ] Boost post
+- [ ] Feature: Activity feed, profile, follow list
+	
+	Likes for session or laps
+	
+	Chat push notifications
+	
+	User garage: 1. Add 'My Vehicle(s)' section to the left-side menu and allow the user to add their vehicle(s), including make, model etc, but also allow them to list their modifications and things like that, so public session info is more insightful, plus it allows people to brag a little, and upload photos. Also allow users to select what gear they're using (e.g. RaceChrono, Vbox, Dragy etc). If users have multiple vehicles, allow them to easily select one when adding a session - if they only have 1 vehicle, have it selected by default when adding a new session. Could also allow the driver name to be set here as well.
+- [ ] #Marteking How to get faster reel - a worked example
 - [ ] Revenue: sponsorship - logo in session list linking to site
 - [ ] Revenue: Ads in the feed about new devices or apps or performance parts
-- [ ] Feat: share session stats card to socials
-- [ ] Device support: AIM
-- [ ] Feature: sync up youtube video
+- [ ] #Feature Sync up youtube video
 - [ ] Mini sectors viz
 - [ ] Optimal time compare
 - [ ] Fix: App bar slow to collapse
 - [ ] Feature: achievements
 - [ ] Feature: Automatic posts to socials for achievements and new sessions
-- [ ] Support autocross data
 - [ ] Import F1 data via https://tracinginsights.com/data/
 - [ ] Feature: implement tracking of vehicle OBD data for visualisation
 - [ ] Feature: AI chat/insights in compare
@@ -32,56 +51,54 @@ kanban-plugin: board
 	
 	"The sectional analysis is what is useful, but I still look for my best lap time, though I'm not going to slow anyone else down to get it."
 - [ ] The upload modal disappears if you click outside it and any entered data is removed.
-- [ ] Upload multiple sessions at once
-- [ ] Feat: User garage
 - [ ] Social: Create discord?
 - [ ] **Account for traffic or slow laps**
 	
 	"The most significant piece of feedback on the AI is that it doesn't seem to account for traffic or other external factors. One user pointed out that the AI flagged a massive speed difference in a corner that was clearly caused by traffic, not driver error."
 	
 	"One thing I would like to know, in hpde timing, is how many times in a lap I slowed down to let a faster driver by. Maybe throttle lifts in a straight would be an approximate measure."
+- [ ] Allow 2 letter Names - nickname
+- [ ] Email in export data
+- [ ] Refactor: move server action to proper API
 
 
 ## Up Next
 
-- [ ] Revenue: Build affiliate program feature
-	- [ ] Build tracking
-	- [ ] Email partners
-- [ ] Feature: event viz in track map
-- [ ] Marketing: track map viz
+- [ ] Compare top laps across all sessions at a track
 	
-	- [ ] Create short video ad
-	- [ ] Create screenshots
-	- [ ] Reddit post
-	- [ ] Instagram post
-	- [ ] Email to users
-	- [ ] Boost post
-	
-	Due: @{2025-12-01}
-- [ ] Feature: Activity feed, profile, follow list
-	
-	Likes for session or laps
-	
-	Chat push notifications
+	Useful for autocross too
+	How to get AI Analysis for this?
+	Track session type
+	How is it different to session compare?
+- [ ] Support autocross data
+- [ ] User dashboard
+- [ ] Upload multiple sessions at once
 
 
 ## In Progress
 
-- [ ] Marketing: release delta, stats and inconsistency zones
-	
-	- [ ] Create short video ad
-	- [ ] Create screenshots
-	- [ ] Reddit post
-	- [ ] Instagram post
-	- [ ] Email to users
-	- [ ] Boost post
-	
-	Due: @{2025-11-03}
+- [ ] PA home link
+- [ ] Feat: share session stats card to socials
+- [ ] Revenue: Build affiliate program feature
+	- [x] Build tracking
+	- [ ] Email partners
 
 
 ## Done
 
 **Complete**
+- [x] Confirm link copy - animation
+- [x] Fix: Map tile loading faster or cache
+- [x] Annual pricing
+- [x] Marketing: Create post ad
+- [x] Marketing: release delta, stats and inconsistency zones
+	
+	- [x] Create screenshots
+	- [x] Reddit post
+	- [x] Instagram post
+	- [x] Email to users
+	
+	Due: @{2025-11-03}
 - [x] Inconsistency zones
 	 - [x] Make pro feature?
 	 - [x] Don't show if very consistent
