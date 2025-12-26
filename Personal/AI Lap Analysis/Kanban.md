@@ -11,6 +11,12 @@ kanban-plugin: board
 - [ ] Support GM Cosworth PDR
 	
 	See https://mail.google.com/mail/u/1/#inbox/FMfcgzQcqlGxBRKfKbNGmltbSqgMlQCM
+- [ ] Compare top laps across all sessions at a track
+	
+	Useful for autocross too
+	How to get AI Analysis for this?
+	Track session type
+	How is it different to session compare?
 - [ ] Feature: event viz in track map
 - [ ] Marketing: track map viz
 	
@@ -60,33 +66,53 @@ kanban-plugin: board
 - [ ] Allow 2 letter Names - nickname
 - [ ] Email in export data
 - [ ] Refactor: move server action to proper API
+- [ ] Bug: While retriggering Ai insights for large session: Request body exceeded 10MB for /session/6c244849-84c8-4119-bd1c-841a80260778. Only the first 10MB will be available unless configured. See https://nextjs.org/docs/app/api-reference/config/next-config-js/middlewareClientMaxBodySize for more details.
+	 ⨯ [Error: Body exceeded 4mb limit.
+	To configure the body size limit for Server Actions, see: https://nextjs.org/docs/app/api-reference/next-config-js/serverActions#bodysizelimit] {
+	  statusCode: 413,
+	  digest: '3065771895'
+	}
+	 POST /session/6c244849-84c8-4119-bd1c-841a80260778 500 in 615ms
+- [ ] Split leaderboard to a separate page
+- [ ] User customizable dashboard
+- [ ] Move reference point using any charts
+- [ ] Allow map to be rotated?
+- [ ] GPS fine global adjustments
 
 
 ## Up Next
 
-- [ ] Compare top laps across all sessions at a track
-	
-	Useful for autocross too
-	How to get AI Analysis for this?
-	Track session type
-	How is it different to session compare?
-- [ ] Support autocross data
 - [ ] User dashboard
 - [ ] Upload multiple sessions at once
+- [ ] Better support for motocycles
+	
+	In vehicle list
+	Lean angle
+	Let AI know it's a bike
 
 
 ## In Progress
 
-- [ ] PA home link
-- [ ] Feat: share session stats card to socials
 - [ ] Revenue: Build affiliate program feature
 	- [x] Build tracking
 	- [ ] Email partners
+- [ ] Test point to point support for trackaddict and racebox
 
 
 ## Done
 
 **Complete**
+- [x] Support autocross data
+	- [x] Fix import
+	- [x] Add to AI context
+	- [x] Copy changes (even in AI context)
+	- [x] Social story
+- [x] Prompts not working on dev
+	
+	Also add feature flag
+- [x] AI prompts on analysis cards
+- [x] Feat: share session stats card to socials
+- [x] PA home link
 - [x] Confirm link copy - animation
 - [x] Fix: Map tile loading faster or cache
 - [x] Annual pricing
