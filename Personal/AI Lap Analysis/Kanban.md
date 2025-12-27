@@ -89,6 +89,7 @@ kanban-plugin: board
 	In vehicle list
 	Lean angle
 	Let AI know it's a bike
+- [ ] Click on charts to seek
 
 
 ## In Progress

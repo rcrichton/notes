@@ -104,13 +104,12 @@
             "id": "1322364e5db5d22a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "excalidraw",
               "state": {
-                "file": "Personal/AI Lap Analysis/Social and marketing/Posts.base",
-                "viewName": "Table"
+                "file": "Personal/Shelf mockup.md"
               },
-              "icon": "lucide-table",
-              "title": "Posts"
+              "icon": "excalidraw-icon",
+              "title": "Shelf mockup"
             }
           },
           {
@@ -140,8 +139,30 @@
               "icon": "lucide-file",
               "title": "Costs"
             }
+          },
+          {
+            "id": "5d4df73547d89592",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Personal/AI Lap Analysis/Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -290,15 +311,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4e21d6788edc61f4",
+  "active": "f97b91b2db6d4884",
   "lastOpenFiles": [
-    "Personal/AI Lap Analysis/Costs.md",
     "Personal/AI Lap Analysis/Kanban.md",
+    "Personal/AI Lap Analysis/Kanban.sync-conflict-20251227-142939-VYONY3D.md",
     "Personal/AI Lap Analysis/Enterprise revenue ideas.md",
+    "Test zenbook!.md",
+    "Personal/Shelf mockup.md",
+    "Personal/AI Lap Analysis/Social and marketing/Posts.base",
     "Personal/AI Lap Analysis/Features+Ideas.md",
+    "Untitled.canvas",
+    "Personal/AI Lap Analysis/Costs.md",
     "Personal/AI Lap Analysis/Marketing plan.md",
     "Personal/AI Lap Analysis/Competitors.md",
-    "Personal/AI Lap Analysis/Social and marketing/Posts.base",
     "Personal/AI Lap Analysis/Social and marketing/Whatsapp messages.md",
     "Personal/AI Lap Analysis/Social and marketing/Third reddit post - sneak peek.md",
     "Personal/AI Lap Analysis/Social and marketing/Forum posts.md",
@@ -314,20 +339,17 @@
     "Personal/HP Tuners/Contract.md",
     "Personal/AI Lap Analysis/Data file fixes.md",
     "Personal/AI Lap Analysis/Social and marketing",
-    "Personal/Shelf mockup.md",
     "Personal/HP Tuners/Questions.md",
     "Personal/HP Tuners",
     "Personal/Contracting rates.md",
     "Personal/AI Lap Analysis/Social/Third post - sneak peek.md",
     "Personal/AI Lap Analysis/Social/Posts.base",
-    "Personal/AI Lap Analysis/Data parsing and processing.md",
     "Personal/AI Lap Analysis/Social",
     "Excalidraw",
     "Jembi/Eth CHR+NDR",
     "Jembi/HIV-TB Gates",
     "Personal/AI Lap Analysis",
     "Personal",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
