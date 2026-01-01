@@ -6,6 +6,13 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Notification center
+	* chat messages
+	* what's new
+	* later follower activity
+- [ ] Auto event detection
+- [ ] User profile
+- [ ] Upload multiple sessions at once
 - [ ] Feat: User garage
 - [ ] Device support: AIM + MOTECH
 - [ ] Support GM Cosworth PDR
@@ -75,7 +82,6 @@ kanban-plugin: board
 	 POST /session/6c244849-84c8-4119-bd1c-841a80260778 500 in 615ms
 - [ ] Split leaderboard to a separate page
 - [ ] User customizable dashboard
-- [ ] Move reference point using any charts
 - [ ] Allow map to be rotated?
 - [ ] GPS fine global adjustments
 
@@ -83,13 +89,17 @@ kanban-plugin: board
 ## Up Next
 
 - [ ] User dashboard
-- [ ] Upload multiple sessions at once
+	
+	* Profile pic
+	* Bio
+	* Stats
+	* Latest sessions
+	* Cars
 - [ ] Better support for motocycles
 	
 	In vehicle list
 	Lean angle
 	Let AI know it's a bike
-- [ ] Click on charts to seek
 
 
 ## In Progress
@@ -103,6 +113,9 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Click on charts to seek
+- [x] What happened when signed out with AI prompts on charts - Already sorted, hidden
+- [x] Use one single GCP for the app - move maps API - enable free tier for development
 - [x] Support autocross data
 	- [x] Fix import
 	- [x] Add to AI context

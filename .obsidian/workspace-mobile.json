@@ -86,8 +86,7 @@
               "title": "Test zenbook!"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,10 +221,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "85a33fe18f23b13b",
+  "active": "3213002b4c605548",
   "lastOpenFiles": [
-    "Personal/AI Lap Analysis/Kanban.md",
     "Test zenbook!.md",
+    "Personal/AI Lap Analysis/Kanban.md",
     "Personal/AI Lap Analysis/Social and marketing/Forum posts.md",
     "Personal/AI Lap Analysis/Competitors.md",
     "Personal/AI Lap Analysis/Enterprise revenue ideas.md",
