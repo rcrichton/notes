@@ -6,6 +6,11 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Better support for motocycles
+	
+	In vehicle list
+	Lean angle
+	Let AI know it's a bike
 - [ ] Notification center
 	* chat messages
 	* what's new
@@ -107,11 +112,6 @@ kanban-plugin: board
 	* Driving style insights
 	* Fastest laps at latest tracks
 	* User garage
-- [ ] Better support for motocycles
-	
-	In vehicle list
-	Lean angle
-	Let AI know it's a bike
 
 
 ## In Progress
