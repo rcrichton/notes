@@ -12,22 +12,11 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Personal/AI Lap Analysis/Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -85,8 +74,23 @@
               "icon": "lucide-file",
               "title": "Test zenbook!"
             }
+          },
+          {
+            "id": "cd60ed3e1d33892c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/AI Lap Analysis/01 - Product & Strategy/Product Features.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product Features"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -221,8 +225,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3213002b4c605548",
+  "active": "cd60ed3e1d33892c",
   "lastOpenFiles": [
+    "Personal/AI Lap Analysis/04 - Features/System Reference/AI Coach.md",
+    "Personal/AI Lap Analysis/01 - Product & Strategy/Product Features.md",
+    "Personal/AI Lap Analysis/04 - Features/System Reference/Feature Index.md",
+    "Personal/AI Lap Analysis/04 - Features/System Reference/Discovery & Social.md",
+    "Personal/AI Lap Analysis/04 - Features/System Reference/Data Management.md",
     "Test zenbook!.md",
     "Personal/AI Lap Analysis/Kanban.md",
     "Personal/AI Lap Analysis/Social and marketing/Forum posts.md",

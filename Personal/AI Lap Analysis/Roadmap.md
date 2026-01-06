@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] User profile
 - [ ] Upload multiple sessions at once
 - [ ] Feat: User garage
+	See [[User Garage]]
 - [ ] Device support: AIM + MOTECH
 - [ ] Support GM Cosworth PDR
 	
@@ -34,6 +35,8 @@ kanban-plugin: board
 	- [ ] Email to users
 	- [ ] Boost post
 - [ ] Feature: Activity feed, profile, follow list
+	
+	See [[Activity Feed]]
 	
 	Likes for session or laps
 	
@@ -84,17 +87,26 @@ kanban-plugin: board
 - [ ] User customizable dashboard
 - [ ] Allow map to be rotated?
 - [ ] GPS fine global adjustments
+- [ ] Feature: Friend challenges
+- [ ] Feature: Car setup chat mode
 
 
 ## Up Next
 
 - [ ] User dashboard
 	
+	See [[User Dashboard]]
+	
+	A home for the user to get an overview of their data and progress and perhaps can also be used as a user profile for sharing. Contains:
+	
 	* Profile pic
 	* Bio
-	* Stats
+	* Stats (similar to history?)
 	* Latest sessions
 	* Cars
+	* Driving style insights
+	* Fastest laps at latest tracks
+	* User garage
 - [ ] Better support for motocycles
 	
 	In vehicle list
